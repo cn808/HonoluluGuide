@@ -72,6 +72,7 @@ Skills are managed through the Amazon Developer Portal. You’ll link the Lambda
         { "intent": "getNewsIntent", "slots": [] },  
         { "intent": "AMAZON.YesIntent", "slots": [] },  
         { "intent": "AMAZON.NoIntent", "slots": [] },  
+        { "intent": "AMAZON.CancelIntent", "slots": [] },  
         { "intent": "AMAZON.HelpIntent", "slots": [] },  
         { "intent": "AMAZON.RepeatIntent", "slots": [] }
       ]  
